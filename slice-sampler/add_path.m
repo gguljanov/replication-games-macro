@@ -26,6 +26,4 @@ function add_path()
 addpath("common_functions/")
 addpath("common_functions/prior_eval/")
 addpath("common_functions/liki_eval/")
-
-addpath("test/")
 end
