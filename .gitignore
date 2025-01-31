@@ -3,6 +3,7 @@ Estim_res
 
 # repository specific .mat files
 *.mat
+!RandomStuff2500.mat
 
 # All pdf files
 *.pdf
